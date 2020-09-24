@@ -1,0 +1,9 @@
+/** @format */
+
+.importantRule {
+	width: 200px !important;
+}
+
+.td input[type='text'] {
+min-width: 150px
+}

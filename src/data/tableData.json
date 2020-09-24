@@ -1,0 +1,38 @@
+[
+	{
+		"Date": "Todays Date",
+		"Long/Short": "Long",
+		"Equity": "HCL",
+		"Entry Price": "220.20",
+		"Account Balance": "2000",
+		"No. of Shares": "500",
+		"Stop Loss Price": "210",
+		"Take Profit Price": "225",
+		"Actual Exit Price": "225",
+		"Trade Costs": "1000",
+		"% Of Account Risked": "1%",
+		"Closed Position P/L": "200",
+		"Trade Screenshot": "Image",
+		"Trade Notes": "We executed trade",
+		"Discipline Rating": "10",
+		"Emotional State of Mind": "Stable"
+	},
+	{
+		"Date": "Todays Date",
+		"Long/Short": "Long",
+		"Equity": "HCL",
+		"Entry Price": "220.20",
+		"Account Balance": "2000",
+		"No. of Shares": "500",
+		"Stop Loss Price": "210",
+		"Take Profit Price": "225",
+		"Actual Exit Price": "225",
+		"Trade Costs": "1000",
+		"% Of Account Risked": "1%",
+		"Closed Position P/L": "200",
+		"Trade Screenshot": "Image",
+		"Trade Notes": "We executed trade",
+		"Discipline Rating": "10",
+		"Emotional State of Mind": "Stable"
+	}
+]
